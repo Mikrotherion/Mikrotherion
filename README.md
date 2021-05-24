@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikrotherion
 - 👀 I’m interested in too many things to really focus on programming. :o)
-- 🌱 I’m currently learning Pascal (fpc, lazarus) and Python among other stuff that has nothing to do with languages.
+- 🌱 I’m currently learning Pascal (fpc, lazarus) and Python among other stuff that has nothing to do with programming.
 - 💞️ I’m looking to collaborate on nothing, yet.
 - 📫 How to reach me ...
 
